@@ -1,7 +1,7 @@
 {
   "name": "mfs_vue",
   "version": "1.0.0",
-  "description": "UI for EFS portfolio project",
+  "description": "UI for MFS portfolio project",
   "author": "instructor",
   "private": true,
   "scripts": {
