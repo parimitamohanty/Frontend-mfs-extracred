@@ -1,6 +1,6 @@
 # mfs_vue
 
-> UI for EFS portfolio project
+> UI for MFS portfolio project
 
 ## Build Setup
 
